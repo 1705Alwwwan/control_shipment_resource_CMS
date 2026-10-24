@@ -1,0 +1,6 @@
+{
+  "name": "Marinetek Vessel CMS",
+  "description": "Sistem Pemantauan Kondisi & Sumber Daya Kapal (Vessel Condition Monitoring System) untuk permesinan kapal, tangki bahan bakar & air, kelistrikan, dan diagnostik getaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
